@@ -1,4 +1,4 @@
-Infinite Page Loader React component for Next.js
+# Infinite Page Loader React component for Next.js
 
 ## Getting Started
 
